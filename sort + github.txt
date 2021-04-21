@@ -1,0 +1,5 @@
+quick sort
+stable sort
+shell sort ?
+cocktail shaker sort
+gnome sort ?
